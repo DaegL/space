@@ -1,2 +1,0 @@
-# space
-For HKUSpace teaching
